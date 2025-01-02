@@ -1,17 +1,16 @@
-# React Calendar Application
+# Calendar Management Platform
 
-This project is a **React-based Calendar Application** designed to track and manage communication with companies. It features separate modules for **Admin** and **User**, along with a reporting module for generating insights. The application incorporates modern design principles and a responsive user interface.
+This repository hosts a React-powered Calendar Management Platform created for streamlined communication tracking and interaction with companies. The application provides distinct modules for Administrator and User roles, alongside a reporting feature for analyzing communication trends. It integrates a modern, responsive interface to enhance user experience.
 
 ---
 
 ## Description
 
-This application allows users to track and manage communication with companies. It provides features for managing companies, setting communication preferences, and generating reports to track communication trends.
+This platform is designed to facilitate the organization and monitoring of company interactions. Users can manage company data, configure communication preferences, and generate insightful reports to identify patterns in their communication.
 
 ## Live Demo
 
-You can view a live demo of the application at [https://communication-calendar.netlify.app/](https://communication-calendar.netlify.app/).
-
+You can view a live demo of the application at [https://sparkling-wisp-b94429.netlify.app/](https://sparkling-wisp-b94429.netlify.app/)
 
 ## Features
 
@@ -55,45 +54,6 @@ You can view a live demo of the application at [https://communication-calendar.n
 
 ---
 
-### Backend 
-
-## Installation
-
-1. Download the zip or clone it :
-```bash
-git clone https://github.com/Hmtgit7/entnt-backend.git
-cd entnt-backend
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-2. Run the project:
-```bash
-npm start
-```
-
-
-### Frontend
-## Installation
-
-1. Download the zip or clone it :
-```bash
-git clone https://github.com/Hmtgit7/entnt-frontend.git
-cd entnt-frontend
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-2. Run the project:
-```bash
-npm start
-```
 
 ## Dependencies
 
@@ -200,20 +160,11 @@ entnt-backend/
 
 
 ## LIVE DEMO Pictures
-Link to the live demo: [https://communication-calendar.netlify.app/](https://communication-calendar.netlify.app/)
+Link to the live demo: [https://sparkling-wisp-b94429.netlify.app/](https://sparkling-wisp-b94429.netlify.app/)
 
 #### Desktop View
 
-![Register Page](entnt-frontend/public/assests/signup.png)
-![Login Page](entnt-frontend/public/assests/login.png)
-![User Dashboard](entnt-frontend/public/assests/user-dashboard.png)
-![Calendar View](entnt-frontend/public/assests/calendar.png)
-![Dark Mode](entnt-frontend/public/assests/Dark.png)
-![Light Mode](entnt-frontend/public/assests/light.png)
-![Admin Dashboard](entnt-frontend/public/assests/admim.png)
-![Analytics Dashboard](entnt-frontend/public/assests/analytics-1.png)
-![Analytics Dashboard](entnt-frontend/public/assests/analytics-2.png)
-
-#### Mobile View
-
-![Register Page](entnt-frontend/public/assests/Mobile.png)
+![Screenshot 2025-01-02 214055](https://github.com/user-attachments/assets/0f101b73-1fbd-4633-a232-0acab586af59)
+![Screenshot 2025-01-02 214121](https://github.com/user-attachments/assets/b75d7418-a999-420e-8e38-933b0ef3aeb3)
+![Screenshot 2025-01-02 214128](https://github.com/user-attachments/assets/9ca62a4b-e0f2-49ed-83ff-8da8bdbd1120)
+![Screenshot 2025-01-02 214153](https://github.com/user-attachments/assets/6ed3a619-b062-4c45-a254-fb1bc950103b)
